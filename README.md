@@ -1,4 +1,4 @@
-Recommendation Systems
+Recommender Systems
 ================
 
 - [Category](#Category)
