@@ -60,7 +60,7 @@ Category
 -	`TKDE(2023)`Parallel Split-Join Networks for Shared Account Cross-Domain Sequential Recommendations **[[PDF](https://ieeexplore.ieee.org/document/9647967)]**
 -	`TKDE(2023)`Dynamic Graph Neural Networks for Sequential Recommendation **[[PDF](https://ieeexplore.ieee.org/abstract/document/9714053/)]** 
 -	`TKDE(2023)`LOKI: A Practical Data Poisoning Attack Framework Against Next Item Recommendations  **[[PDF](https://ieeexplore.ieee.org/abstract/document/9806383)]** 
--	`TKDE(2023)`Multi-Behavior Sequential Recommendation With Temporal Graph Transformer  **[[PDF](https://ieeexplore.ieee.org/document/9774907/)]**  **[[Code](https: //github.com/akaxlh/TGT)]**
+-	`TKDE(2023)`Multi-Behavior Sequential Recommendation With Temporal Graph Transformer  **[[PDF](https://ieeexplore.ieee.org/document/9774907/)]**  **[[Code](https://github.com/akaxlh/TGT)]**
 -	`TKDE(2023)`Reinforcement Learning-Enhanced Shared-Account Cross-Domain Sequential Recommendation  **[[PDF](https://ieeexplore.ieee.org/document/9802739)]**
 -	`TKDE(2023)`Disentangled Graph Neural Networks for Session-Based Recommendation   **[[PDF](https://ieeexplore.ieee.org/abstract/document/9899738)]**  **[[Code](https://github.com/AnsongLi/Disen-GNN)]**
 -	`TKDE(2023)`Multi Global Information Assisted Streaming Session-Based Recommendation System **[[PDF](https://ieeexplore.ieee.org/abstract/document/9858599/)]**
