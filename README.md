@@ -2,8 +2,9 @@ Recommendation Systems
 ================
 
 - [Category](#Category)
-  - [Sequential Recommendation](#static-negative-sampling)
   - [Survey](#static-negative-sampling)
+  - [Sequential Recommendation](#static-negative-sampling)
+
 
 Category
 ----
