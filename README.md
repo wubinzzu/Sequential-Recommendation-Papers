@@ -8,7 +8,116 @@ Category
 ----
 
 ### Sequential Recommendation
+- `TOIS(2025)`Automated Disentangled Sequential Recommendation with Large Language Models **[[PDF](https://dl.acm.org/doi/10.1145/3675164)]**
+- `TOIS(2025)`Hierarchical Gating Network for Cross-Domain Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3715321)]**
+- `TOIS(2025)`Privacy-Preserving Sequential Recommendation with Collaborative Confusion **[[PDF](https://arxiv.org/abs/2401.04423)]**
+- `SIGIR(2024)`Large Language Models for Intent-Driven Session Recommendations **[[PDF](https://arxiv.org/pdf/2312.07552)]**
+- `SIGIR(2024)`Sequential Recommendation with Latent Relations based on Large Language Model **[[PDF](https://doi.org/10.1145/3626772.3657762)]**
+- `SIGIR(2024)`Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models **[[PDF](https://doi.org/10.1145/3626772.3657782)]**
+- `SIGIR(2024)`Fair Sequential Recommendation without User Demographics **[[PDF](https://doi.org/10.1145/3626772.3657703)]**
+- `SIGIR(2024)`IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT **[[PDF](https://doi.org/10.1145/3626772.3657725)]** **[[Code](https://github.com/GAIR-Lab/IISAN)]**
+- `SIGIR(2024)`Are We Really Achieving Better Beyond-Accuracy Performance in Next Basket Recommendation? **[[PDF](https://doi.org/10.1145/3626772.3657835)]** **[[Code](https://github.com/lynEcho/TREX)]**
+- `SIGIR(2024)`Modeling User Fatigue for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657802)]** **[[Code](https://github.com/tsinghua-fib-lab/SIGIR24-FRec)]**
+- `SIGIR(2024)`Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization **[[PDF](https://dl.acm.org/doi/10.1145/3626772.3657770)]**
+- `SIGIR(2024)`Large Language Models for Next Point-of-Interest Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657840)]**
+- `SIGIR(2024)`CLLP: Contrastive Learning Framework Based on Latent Preferences for Next POI Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657730)]**
+- `SIGIR(2024)`Scaling Sequential Recommendation Models with Transformers **[[PDF](https://doi.org/10.1145/3626772.3657816)]**
+- `SIGIR(2024)`A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657682)]** **[[Code](https://github.com/XiaoJing-C/MBASR)]**
+- `SIGIR(2024)`CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657839)]**
+- `SIGIR(2024)`FineRec: Exploring Fine-grained Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657761)]**
+- `SIGIR(2024)`SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657716)]**
+- `SIGIR(2024)`EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention **[[PDF](https://doi.org/10.1145/3626772.3657805)]** **[[Code](https://github.com/RUCAIBox/EulerFormer)]**
+- `SIGIR(2024)`LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657684)]** **[[Code](https://github.com/Kaike-Zhang/LoRec)]**
+- `SIGIR(2024)`Disentangling ID and Modality Effects for Session-based Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657748)]**
+- `SIGIR(2024)`Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation **[[PDF](https://doi.org/10.1145/3626772.3657710)]** **[[Code](https://github.com/cpark88/SyNCRec)]**
+- `SIGIR(2024)`Multi-Domain Sequential Recommendation via Domain Space Learning **[[PDF](https://doi.org/10.1145/3626772.3657685)]**
+- `WWW(2024)`Intelligent Model Update Strategy for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645316)]**
+- `WWW(2024)`Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645380)]**
+- `WWW(2024)`Causally Debiased Time-aware Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645400)]** **[[Code](https://paitesanshi.github.io/CDTR/)]**
+- `WWW(2024)`UnifiedSSR: A Unified Framework of Sequential Search and Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645427)]** **[[Code](https://github.com/JennyXieJiayi/UnifiedSSR)]**
+- `WWW(2024)`ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645467)]**
+- `WWW(2024)`Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645590)]** **[[Code](https://github.com/xjaw/S4Rec)]**
+- `WWW(2024)`Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation **[[PDF](https://doi.org/10.1145/3589334.3645661)]**
+- `WWW(2024)`Can Small Language Models be Good Reasoners for Sequential Recommendation? **[[PDF](https://doi.org/10.1145/3589334.3645671)]**
+- `KDD(2024)`Explicit and Implicit Modeling via Dual-Path Transformer for Behavior Set-informed Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3637528.3671755)]** **[[Code](https://github.com/OshiNoCSMA/EIDP)]**
+- `KDD(2024)`Disentangled Multi-interest Representation Learning for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3637528.3671800)]**
+- `KDD(2024)`ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation **[[PDF](https://doi.org/10.1145/3637528.3671809)]** **[[Code](https://github.com/ruiwenfan/ROTAN)]**
+- `KDD(2024)`DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation **[[PDF](https://doi.org/10.1145/3637528.3671669)]**
+- `KDD(2024)`Probabilistic Attention for Sequential Recommendation **[[PDF](https://doi.org/10.1145/3637528.3671733)]**
+- `KDD(2024)`Pre-Training with Transferable Attention for Addressing Market Shifts in Cross-Market Sequential Recommendation **[[PDF](https://doi.org/10.1145/3637528.3671698)]** **[[Code](https://github.com/ChenMetanoia/CATSR-KDD)]**
+- `KDD(2024)`Dataset Regeneration for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2405.17795)]** **[[Code](https://github.com/USTC-StarTeam/DR4SR)]**
+- `ICDE(2024)`Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation **[[PDF](https://arxiv.org/abs/2402.10602)]**
+- `ICDE(2024)`Meta-Optimized Joint Generative and Contrastive Learning for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2310.13925)]** **[[Code](https://anonymous.4open.science/status/Meta-SGCL-05B5)]**
+- `ICDE(2024)`SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2403.04278)]** **[[Code](https://github.com/zc-97/SSDRec)]**
+- `ICDE(2024)`When Multi-behavior Meets Multi-interest: Multi-behavior Sequential Recommendation with Multi-interest Self-Supervised Learning **[[PDF](https://ieeexplore.ieee.org/document/10597701)]** **[[Code](https://github.com/qianlima-Iab/MISSL)]**
+- `CIKM(2024)`PTSR: Prefix-Target Graph-based Sequential Recommendation **[[PDF](https://doi.org/10.1145/3627673.367971)]** **[[Code](https://github.com/TosakRin/PTSR)]**
+- `CIKM(2024)`PACIFIC: Enhancing Sequential Recommendation via Preference-aware Causal Intervention and Counterfactual Data Augmentation **[[PDF](https://doi.org/10.1145/3627673.3679803)]**
+- `CIKM(2024)`Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning **[[PDF](https://arxiv.org/pdf/2405.09369v4)]** **[[Code](https://github.com/ziqiangcui/CaDiRec)]**
+- `CIKM(2024)`Contrastive Learning on Medical Intents for Sequential Prescription Recommendation **[[PDF](https://doi.org/10.1145/3627673.3679836)]** **[[Code](https://github.com/aryahm1375/ARCI)]**
+- `CIKM(2024)`Calibration-Disentangled Learning and Relevance-Prioritized Reranking for Calibrated Sequential Recommendation **[[PDF](https://arxiv.org/abs/2408.02156)]** **[[Code](https://github.com/jeon185/LeapRec)]**
+- `CIKM(2024)`Spectral and Geometric Spaces Representation Regularization for Multi-Modal Sequential Recommendation **[[PDF](https://doi.org/10.1145/3627673.3679647)]** **[[Code](https://github.com/WHUIR/E2ImgRec)]**
+- `CIKM(2024)`Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation **[[PDF](https://arxiv.org/abs/2406.12580)]**
+- `CIKM(2024)`UniRec: A Dual Enhancement of Uniformity and Frequency in Sequential Recommendations **[[PDF](https://arxiv.org/abs/2406.18470)]** **[[Code](https://github.com/Linxi000/UniRec/tree/main)]**
+- `CIKM(2024)`Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Sample Selection **[[PDF](https://doi.org/10.1145/3627673.367968)]** **[[Code](https://github.com/Cloudcatcher888/RCL)]**
+- `CIKM(2024)`MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models **[[PDF](https://dl.acm.org/doi/10.1145/3627673.3679599)]**
+- `CIKM(2024)`Bridging User Dynamics: Transforming Sequential Recommendations with Schrödinger Bridge and Diffusion Models **[[PDF](https://arxiv.org/abs/2409.10522)]**
+- `WSDM(2024)`To Copy, or not to Copy; That is a Critical Issue of the Output Softmax Layer in Neural Sequential Recommenders **[[PDF](https://dl.acm.org/doi/10.1145/3616855.3635755)]**
+- `WSDM(2024)`Contextual MAB Oriented Embedding Denoising for Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3616855.3635798)]**
+- `WSDM(2024)`User Behavior Enriched Temporal Knowledge Graphs for Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3616855.3635762)]**
+- `WSDM(2024)`Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation **[[PDF](https://arxiv.org/pdf/2302.08678)]** **[[Code](https://github.com/akaxlh/MBRec)]**
+- `WSDM(2024)`Mixed Attention Network for Cross-domain Sequential Recommendation **[[PDF](https://arxiv.org/abs/2311.08272)]** **[[Code](https://github.com/Guanyu-Lin/MAN)]**
+- `WSDM(2024)`Multi-Sequence Attentive User Representation Learning for Side-information Integrated Sequential Recommendation **[[PDF](https://doi.org/10.1145/3616855.363581)]**
+- `WSDM(2024)`RecJPQ: Training Large-Catalogue Sequential Recommenders **[[PDF](https://arxiv.org/abs/2312.06165)]**
+- `WSDM(2024)`Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation **[[PDF](https://arxiv.org/pdf/2310.14318)]**
+- `WSDM(2024)`On the Effectiveness of Unlearning in Session-Based Recommendation **[[PDF](https://arxiv.org/abs/2312.14447)]**
+- `WSDM(2024)`Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure **[[PDF](https://arxiv.org/abs/2312.07036)]** **[[Code](https://github.com/nancheng58/DebiasedSR_DRO)]**
+- `WSDM(2024)`Linear Recurrent Units for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2310.02367)]**
+- `WSDM(2024)`Collaboration and Transition: Distilling Item Transitions into Multi-Query Self-Attention for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2311.01056)]**
+- `IJICA(2024)`SeeDRec: Sememe-based Diffusion for Sequential Recommendation **[[PDF](https://www.ijcai.org/proceedings/2024/0251.pdf)]** **[[Code](https://github.com/hulkima/SeeDRec)]**
+- `IJICA(2024)`Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation **[[PDF](https://www.ijcai.org/proceedings/2024/0255.pdf)]**
+- `IJICA(2024)`Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation **[[PDF](https://www.ijcai.org/proceedings/2024/0267.pdf)]**
+- `IJICA(2024)`A Survey on Cross-Domain Sequential Recommendation **[[PDF](https://www.ijcai.org/proceedings/2024/0884.pdf)]**
+- `IJICA(2024)`gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling **[[PDF](https://www.ijcai.org/proceedings/2024/0939.pdf)]**
+- `AAAI(2024)`Temporal Graph Contrastive Learning for Sequential Recommendation **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28789)]**
+- `AAAI(2024)`Plug-In Diffusion Model for Sequential Recommendation **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28736/29419)]** **[[Code](https://github.com/hulkima/PDRec)]**
+- `AAAI(2024)`Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28697/29350)]**
+- `AAAI(2024)`Dual-View Whitening on Pre-trained Text Embeddings for Sequential Recommendation **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28786)]**
+- `AAAI(2024)`Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28712/29376)]** **[[Code](https://github.com/ll0ruc/Ada-Retrieval)]**
+- `AAAI(2024)`An Attentive Inductive Bias for Sequential Recommendation beyond the SelfAttention **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28747/29438)]** **[[Code](https://github.com/yehjin-shin/BSARec)]**
+- `AAAI(2024)`Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28669/29299)]** **[[Code](https://github.com/junyachen/SparseEnNet)]**
+- `ICML(2024)`On the Unexpected Effectiveness of Reinforcement Learning for Sequential Recommendation **[[PDF](https://proceedings.mlr.press/v235/silva24b.html)]**
+- `RecSys(2024)`The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2404.08796)]** **[[Code](https://github.com/777pomingzi/Rethinking-PLM-in-RS)]**
 
+- `RecSys(2024)`CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2405.02429)]**
+- `RecSys(2024)`Scaling Law of Large Sequential Recommendation Models **[[PDF](https://arxiv.org/abs/2311.11351)]**
+- `RecSys(2024)`Dynamic Stage-aware User Interest Learning for Heterogeneous Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3640457.3688103)]**
+- `RecSys(2024)`Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs **[[PDF](https://arxiv.org/abs/2409.18721)]**
+- `RecSys(2024)`Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation **[[PDF](https://arxiv.org/abs/2408.16578)]**
+- `RecSys(2024)`Repeated Padding for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2403.06372)]** **[[Code](https://github.com/KingGugu/RepPad)]**
+- `RecSys(2024)`TLRec: A Transfer Learning Framework to Enhance Large Language Models for Sequential Recommendation Tasks **[[PDF](https://dl.acm.org/doi/10.1145/3640457.3691710)]**
+- `RecSys(2024)`User Knowledge Prompt for Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3640457.3691714)]**
+- `RecSys(2024)`Enhancing Sequential Music Recommendation with Personalized Popularity Awareness **[[PDF](https://arxiv.org/abs/2409.04329)]** **[[Code](https://github.com/sisinflab/personalized-popularity-awareness)]**
+- `TKDE(2024)`Knowledge Graph-Based Behavior Denoising and Preference Learning for Sequential Recommendation **[[PDF](https://ieeexplore.ieee.org/document/10287604)]**
+- `TKDE(2024)`Learnable Model Augmentation Contrastive Learning for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2204.10128)]**
+- `TKDE(2024)`Feature-Aware Contrastive Learning With Bidirectional Transformers for Sequential Recommendation **[[PDF](https://ieeexplore.ieee.org/document/10375742)]**
+- `TKDE(2024)`Personalized Prompt for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2205.09666)]**
+- `TKDE(2024)`Modeling Dynamic Item Tendency Bias in Sequential Recommendation With Causal Intervention **[[PDF](https://ieeexplore.ieee.org/document/10598374)]**
+- `TKDE(2024)`Graph Diffusion-Based Representation Learning for Sequential Recommendation **[[PDF](https://ieeexplore.ieee.org/document/10713269)]**
+- `TKDE(2024)`Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations **[[PDF](http://ieeexplore.ieee.org/document/10163858)]**
+- `TKDE(2024)`A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation **[[PDF](http://ieeexplore.ieee.org/document/10163858)]**
+- `TKDE(2024)`Beyond Co-Occurrence: Multi-Modal Session-Based Recommendation **[[PDF](https://www.computer.org/csdl/api/v1/periodical/trans/tk/2024/04/10234637/1Q2m83RTpCM/download-article/pdf)]**
+- `TKDE(2024)`Exploiting Group-Level Behavior Pattern for Session-Based Recommendation **[[PDF](https://ieeexplore.ieee.org/document/10145850)]**
+- `TKDE(2024)`AutoSR: Automatic Sequential Recommendation System Design **[[PDF](https://ieeexplore.ieee.org/document/10529608)]**
+- `TOIS(2024)`Soft Contrastive Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3665325)]**
+- `TOIS(2024)`Disentangled Dynamic Graph Attention Network for Out-of-Distribution Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3701988)]**
+- `TOIS(2024)`Diversifying Sequential Recommendation with Retrospective and Prospective Transformers **[[PDF](https://dl.acm.org/doi/10.1145/3653016)]**
+- `TOIS(2024)`TriMLP: A Foundational MLP-Like Architecture for Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3670995)]**
+- `TOIS(2024)`FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services **[[PDF](https://dl.acm.org/doi/10.1145/3709138)]**
+- `TOIS(2024)`Teach and Explore: A Multiplex Information-guided Effective and Efficient Reinforcement Learning for Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3630003)]**
+- `TOIS(2024)`Collaborative Sequential Recommendations via Multi-view GNN-transformers **[[PDF](https://dl.acm.org/doi/10.1145/3649436)]**
+- `TOIS(2024)`Learning Robust Sequential Recommenders through Confident Soft Labels **[[PDF](https://dl.acm.org/doi/10.1145/3700876)]**
+- `TOIS(2024)`SMLP4Rec: An Efficient All-MLP Architecture for Sequential Recommendations **[[PDF](https://dl.acm.org/doi/10.1145/3637871)]**
+- `TORS(2024)`Multimodal Pre-training for Sequential Recommendation via Contrastive Learning **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
 -	`SIGIR(2023)`Poisoning Self-supervised Learning Based Sequential Recommendations **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591751)]**  **[[Code](https://github.com/CongGroup/Poisoning-SSL-based-RS)]**
 -	`SIGIR(2023)`Knowledge-enhanced Multi-View Graph Neural Networks for Session-based Recommendation**[[PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591706)]**
 -	`SIGIR(2023)`MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation **[[PDF](https://arxiv.org/pdf/2304.08382.pdf)]**  **[[Code](https://github.com/rlqja1107/MELT)]**
