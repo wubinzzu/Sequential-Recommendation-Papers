@@ -3,9 +3,17 @@ Recommendation Systems
 
 - [Category](#Category)
   - [Sequential Recommendation](#static-negative-sampling)
+  - [Survey](#static-negative-sampling)
 
 Category
 ----
+### Survey
+- `Information Systems(2024)`A survey of sequential recommendation systems: Techniques, evaluation, and future directions **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306437924000851)]**
+- `TOIS(2020)`Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations **[[PDF](https://arxiv.org/pdf/1905.01997)]**
+- `ICISCE(2019)`A Survey on Sequential Recommendation **[[PDF](https://ieeexplore.ieee.org/abstract/document/9107897)]**
+- `IJCAI(2019)`Sequential Recommender Systems: Challenges, Progress and Prospects **[[PDF](https://arxiv.org/abs/2001.04830)]**
+- `CSUR(2018)`Sequence-Aware Recommender Systems **[[PDF](https://arxiv.org/pdf/1802.08452)]**
+
 
 ### Sequential Recommendation
 - `TOIS(2025)`Automated Disentangled Sequential Recommendation with Large Language Models **[[PDF](https://dl.acm.org/doi/10.1145/3675164)]**
