@@ -1,0 +1,5 @@
+sequential recommendation
+sequence-based recommendation
+long sequence recommendation
+session-based recommendation
+user behavior sequence
