@@ -17,6 +17,22 @@ Category
 
 
 ### Sequential Recommendation
+- `WWW(2026)`VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation **[[PDF](https://arxiv.org/abs/2602.04567)]**
+- `ICLR(2026)`CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.19178)]**
+- `WSDM(2026)`Facet-Aware Multi-Head Mixture-of-Experts Model with Text-Enhanced Pre-training for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.12301)]**
+- `WWW(2026)`PRISM: Personalized Recommendation via Information Synergy Module **[[PDF](https://arxiv.org/abs/2601.10944)]**
+- `WWW(2026)`Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.10933)]**
+- `WWW(2026)`STCRank: Spatio-temporal Collaborative Ranking for Interactive Recommender System at Kuaishou E-shop **[[PDF](https://arxiv.org/abs/2601.10027)]**
+- `WSDM(2026)`On-Device Large Language Models for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.09306)]**
+- `WSDM(2025)`Time-Aware Adaptive Side Information Fusion for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2512.24246)]**
+- `WWW(2025)`BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations **[[PDF](https://arxiv.org/abs/2512.13368)]**
+- `NeurIPS(2025)`DynamiX: Dynamic Resource eXploration for Personalized Ad-Recommendations **[[PDF](https://arxiv.org/abs/2511.18331)]**
+- `AAAI(2026)`Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents **[[PDF](https://arxiv.org/abs/2511.08378)]**
+- `RecSys(2025)`SemSR: Semantics aware robust Session-based Recommendations **[[PDF](https://arxiv.org/abs/2508.20587)]**
+- `AAAI(2026)`Length-Adaptive Interest Network for Balancing Long and Short Sequence Modeling in CTR Prediction **[[PDF](https://arxiv.org/abs/2601.19142)]**
+- `WWW(2026)`OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender **[[PDF](https://arxiv.org/abs/2510.26104)]**
+- `CIKM(2025)`MPFormer: Adaptive Framework for Industrial Multi-Task Personalized Sequential Retriever **[[PDF](https://arxiv.org/abs/2508.20400)]**
+- `TKDE(2025)`ENCODE: Breaking the Trade-Off Between Performance and Efficiency in Long-Term User Behavior Modeling **[[PDF](https://arxiv.org/abs/2508.13567)]**
 - `TOIS(2025)`Automated Disentangled Sequential Recommendation with Large Language Models **[[PDF](https://dl.acm.org/doi/10.1145/3675164)]**
 - `TOIS(2025)`Hierarchical Gating Network for Cross-Domain Sequential Recommendation **[[PDF](https://dl.acm.org/doi/10.1145/3715321)]**
 - `TOIS(2025)`Privacy-Preserving Sequential Recommendation with Collaborative Confusion **[[PDF](https://arxiv.org/abs/2401.04423)]**
