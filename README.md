@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `WWW(2026)`Hyena Operator for Fast Sequential Recommendation **[[PDF](https://arxiv.org/abs/2603.25027)]**
 - `WWW(2026)`VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation **[[PDF](https://arxiv.org/abs/2602.04567)]**
 - `ICLR(2026)`CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.19178)]**
 - `WSDM(2026)`Facet-Aware Multi-Head Mixture-of-Experts Model with Text-Enhanced Pre-training for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.12301)]**
