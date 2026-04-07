@@ -17,6 +17,8 @@ Category
 
 
 ### Sequential Recommendation
+- `SIGIR(2026)`FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04427)]**
+- `SIGIR(2026)`FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04038)]**
 - `WWW(2026)`Hyena Operator for Fast Sequential Recommendation **[[PDF](https://arxiv.org/abs/2603.25027)]**
 - `WWW(2026)`VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation **[[PDF](https://arxiv.org/abs/2602.04567)]**
 - `ICLR(2026)`CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2601.19178)]**
