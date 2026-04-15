@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`Deep Situation-Aware Interaction Network for Click-Through Rate Prediction **[[PDF](https://arxiv.org/abs/2604.12298)]**
 - `SIGIR(2026)`Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models **[[PDF](https://arxiv.org/abs/2604.05309)]**
 - `SIGIR(2026)`FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04427)]**
 - `SIGIR(2026)`FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04038)]**
