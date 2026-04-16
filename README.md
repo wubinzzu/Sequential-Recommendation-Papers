@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `SIGIR(2026)`RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.13389)]**
 - `RecSys(2026)`Deep Situation-Aware Interaction Network for Click-Through Rate Prediction **[[PDF](https://arxiv.org/abs/2604.12298)]**
 - `SIGIR(2026)`Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models **[[PDF](https://arxiv.org/abs/2604.05309)]**
 - `SIGIR(2026)`FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.04427)]**
