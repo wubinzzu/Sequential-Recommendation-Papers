@@ -17,6 +17,13 @@ Category
 
 
 ### Sequential Recommendation
+- `WWW(2026)`Generative Archetype-Grounded Item Representations for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2606.11023)]**
+- `SIGIR(2026)`ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation **[[PDF](https://arxiv.org/abs/2605.29322)]**
+- `IJCAI(2026)`Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation **[[PDF](https://arxiv.org/abs/2605.04723)]**
+- `SIGIR(2026)`FEDIN: Frequency-Enhanced Deep Interest Network for Click-Through Rate Prediction **[[PDF](https://arxiv.org/abs/2605.01726)]**
+- `SIGIR(2026)`Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems **[[PDF](https://arxiv.org/abs/2604.23640)]**
+- `SIGIR(2026)`WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.21305)]**
+- `SIGIR(2026)`Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling **[[PDF](https://arxiv.org/abs/2606.07546)]**
 - `SIGIR(2026)`RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2604.13389)]**
 - `RecSys(2026)`Deep Situation-Aware Interaction Network for Click-Through Rate Prediction **[[PDF](https://arxiv.org/abs/2604.12298)]**
 - `SIGIR(2026)`Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models **[[PDF](https://arxiv.org/abs/2604.05309)]**
