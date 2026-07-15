@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2607.12945)]**
 - `WWW(2026)`Generative Archetype-Grounded Item Representations for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2606.11023)]**
 - `SIGIR(2026)`ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation **[[PDF](https://arxiv.org/abs/2605.29322)]**
 - `IJCAI(2026)`Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation **[[PDF](https://arxiv.org/abs/2605.04723)]**
