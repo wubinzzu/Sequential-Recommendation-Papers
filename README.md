@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding **[[PDF](https://arxiv.org/abs/2607.28659)]**
 - `RecSys(2026)`Topology-Aware Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.18600)]**
 - `RecSys(2026)`Zero-Observation User Reactivation with Gap-Driven Dimensional Gating **[[PDF](https://arxiv.org/abs/2607.19802)]**
 - `SIGIR(2026)`Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy **[[PDF](https://arxiv.org/abs/2607.12714)]**
