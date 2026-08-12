@@ -17,6 +17,8 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`Deciding When to Rely on Visual Information: Gated Multimodal Fusion in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.10700)]**
+- `CIKM(2026)`Sequential Modality Dropout for Robust Multi-Modal Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.10240)]**
 - `RecSys(2026)`Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding **[[PDF](https://arxiv.org/abs/2607.28659)]**
 - `RecSys(2026)`Topology-Aware Tokenization for Generative Recommendation **[[PDF](https://arxiv.org/abs/2607.18600)]**
 - `RecSys(2026)`Zero-Observation User Reactivation with Gap-Driven Dimensional Gating **[[PDF](https://arxiv.org/abs/2607.19802)]**
