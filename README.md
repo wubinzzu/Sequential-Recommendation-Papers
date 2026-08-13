@@ -17,6 +17,9 @@ Category
 
 
 ### Sequential Recommendation
+- `CIKM(2026)`HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2608.11980)]**
+- `CIKM(2026)`From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.11846)]**
+- `RecSys(2026)`Structure-Preserving Projection for Mitigating Modality Bias in LLM-Based Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.08583)]**
 - `RecSys(2026)`Deciding When to Rely on Visual Information: Gated Multimodal Fusion in Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.10700)]**
 - `CIKM(2026)`Sequential Modality Dropout for Robust Multi-Modal Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.10240)]**
 - `RecSys(2026)`Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding **[[PDF](https://arxiv.org/abs/2607.28659)]**
