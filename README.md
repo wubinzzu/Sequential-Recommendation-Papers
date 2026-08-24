@@ -17,6 +17,11 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`Do Sequential Recommendation Benchmarks Really Require Higher-Order Sequence Modelling? **[[PDF](https://arxiv.org/abs/2608.19833)]**
+- `SIGIR(2026)`RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations **[[PDF](https://arxiv.org/abs/2608.19735)]**
+- `CIKM(2026)`GOD: Enhancing Generalization via Deep Grafting for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.16073)]**
+- `RecSys(2026)`SAGA: Structure-Attended Generative Action Embedding Model that encodes Multi-Surface User Action Sequences **[[PDF](https://arxiv.org/abs/2608.15429)]**
+- `RecSys(2026)`Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders **[[PDF](https://arxiv.org/abs/2608.14021)]**
 - `CIKM(2026)`HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs **[[PDF](https://arxiv.org/abs/2608.11980)]**
 - `CIKM(2026)`From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.11846)]**
 - `RecSys(2026)`Structure-Preserving Projection for Mitigating Modality Bias in LLM-Based Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.08583)]**
