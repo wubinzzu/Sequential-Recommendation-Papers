@@ -17,6 +17,8 @@ Category
 
 
 ### Sequential Recommendation
+- `ICML(2026)`CRAMER: Control via Request-Aware Masking for Editing Recommenders **[[PDF](https://arxiv.org/abs/2608.25370)]**
+- `CIKM(2026)`A Dual-Expert Strategy Integrating LLMs to Mitigate Negative Transfer in Cross-Domain Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.23131)]**
 - `RecSys(2026)`Do Sequential Recommendation Benchmarks Really Require Higher-Order Sequence Modelling? **[[PDF](https://arxiv.org/abs/2608.19833)]**
 - `SIGIR(2026)`RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations **[[PDF](https://arxiv.org/abs/2608.19735)]**
 - `CIKM(2026)`GOD: Enhancing Generalization via Deep Grafting for Sequential Recommendation **[[PDF](https://arxiv.org/abs/2608.16073)]**
