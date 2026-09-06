@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `EMNLP(2026)`Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval **[[PDF](https://arxiv.org/abs/2608.30553)]**
 - `RecSys(2026)`SwapRec: Warming Up Cold Items Through Training-Time Swaps **[[PDF](https://arxiv.org/abs/2609.00913)]**
 - `EMNLP(2026)`Two-Sided State-Space Models for Sequential Recommendation with Non-Random Multimodal Review Feedback **[[PDF](https://arxiv.org/abs/2609.00165)]**
 - `ICML(2026)`CRAMER: Control via Request-Aware Masking for Editing Recommenders **[[PDF](https://arxiv.org/abs/2608.25370)]**
