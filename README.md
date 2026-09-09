@@ -17,6 +17,8 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching **[[PDF](https://arxiv.org/abs/2609.08443)]**
+- `CIKM(2026)`Closing the Long-Short View Gap in Sequential Recommendation without Cached History **[[PDF](https://arxiv.org/abs/2609.06219)]**
 - `EMNLP(2026)`Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval **[[PDF](https://arxiv.org/abs/2608.30553)]**
 - `RecSys(2026)`SwapRec: Warming Up Cold Items Through Training-Time Swaps **[[PDF](https://arxiv.org/abs/2609.00913)]**
 - `EMNLP(2026)`Two-Sided State-Space Models for Sequential Recommendation with Non-Random Multimodal Review Feedback **[[PDF](https://arxiv.org/abs/2609.00165)]**
