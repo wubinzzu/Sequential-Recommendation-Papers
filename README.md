@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation **[[PDF](https://arxiv.org/abs/2609.13678)]**
 - `EMNLP(2026)`TATK: Triple-Aware Top-K Learning with Knowledge-Grounded Verification for LLM-based Sequential Recommendation **[[PDF](https://arxiv.org/abs/2609.14565)]**
 - `RecSys(2026)`SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching **[[PDF](https://arxiv.org/abs/2609.08443)]**
 - `CIKM(2026)`Closing the Long-Short View Gap in Sequential Recommendation without Cached History **[[PDF](https://arxiv.org/abs/2609.06219)]**
