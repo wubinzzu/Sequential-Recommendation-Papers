@@ -17,6 +17,7 @@ Category
 
 
 ### Sequential Recommendation
+- `RecSys(2026)`DP-Rec: Towards Dynamic Patching for Efficient Long-Sequence Recommendation **[[PDF](https://arxiv.org/abs/2609.32215)]**
 - `CIKM(2026)`Enriching Sequential Recommendation with Graph Laplacian Positional Embeddings **[[PDF](https://arxiv.org/abs/2609.31253)]**
 - `CIKM(2026)`LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders **[[PDF](https://arxiv.org/abs/2609.29815)]**
 - `RecSys(2026)`A Systematic Benchmark of Explainable Methods for Temporal Attribution in Sequential Recommendation Systems **[[PDF](https://arxiv.org/abs/2609.27201)]**
